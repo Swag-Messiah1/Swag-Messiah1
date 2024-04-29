@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swag-Messiah1 
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on learning to code
-- 📫 Don't try to reach me
+
 
 <!---
 Swag-Messiah1/Swag-Messiah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
